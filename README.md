@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AparajitKapuria
 - 👀 I’m interested in ... Music, Programming, Gaming
-- 🌱 I’m currently learning ... Scratch. Lol
+- 🌱 I’m currently learning ... C
 - 💞️ I’m looking to collaborate on ... nothing
 - 📫 How to reach me ... kapuriaaparajit@gmail.com
 
